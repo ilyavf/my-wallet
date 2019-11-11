@@ -1,2 +1,13 @@
 # my-wallet
-my own crypto wallet
+My own crypto wallet
+
+### Plan
+- PWA
+- Tech stack: 
+  - React/Redux (?)
+- Libs: 
+  - tx-builder
+- Features:
+  - Login via mnemonic or password
+  - Order book
+  - Atomic swaps b/w different cryptos
