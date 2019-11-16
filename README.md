@@ -2,7 +2,7 @@
 My own crypto wallet
 
 ### Plan
-- PWA
+- PWA (see https://github.com/ilyavf/your-first-pwapp)
 - Tech stack: 
   - React/Redux (?)
 - Libs: 
