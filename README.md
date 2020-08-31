@@ -4,7 +4,11 @@ My own crypto wallet
 ### Plan
 - PWA (see https://github.com/ilyavf/your-first-pwapp)
 - Tech stack: 
-  - React/Redux (?)
+  - ~React/Redux (?)~
+  - Svelte
+  - TailwindCSS
+  - RxJS ?
+  - MobX ?
 - Libs: 
   - tx-builder
 - Features:
